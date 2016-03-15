@@ -1,0 +1,4 @@
+sound :
+
+Main title : Ramin Djawadi
+Into The Battlefield : Furukawa Hiroshi 
