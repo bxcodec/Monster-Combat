@@ -3,14 +3,6 @@
 #Monsville Combat - OOP 14/15
 
 
-##Group: D3TI2-3
-- 11113047 - Sanny Chiudra Simarmata
-- 11113050 - Christin Seventina Situmorang,
-- 11113061 - Veni Vici Raya Nababan,
-- 11113064 - Iman Syahputra Situmorang,
-- 11113065 - Idola Sari Manurung,
-
-
 ##Description:
 
 Monster Combat, is a simple game Java Dekstop based. It developed in order to fulfil OOP class.
@@ -38,3 +30,11 @@ Monster Combat, is a simple game Java Dekstop based. It developed in order to fu
 1. Create user in MySQL with credential username/password:  'user' / 'user',
 2. Impor SQL script yang disediakan,
 3. Open Project using NetBeans IDE
+
+###Contributor
+
+- 11113047 - Sanny Chiudra Simarmata
+- 11113050 - Christin Seventina Situmorang,
+- 11113061 - Veni Vici Raya Nababan,
+- 11113064 - [Iman Syahputra Situmorang](https://github.com/bxcodec)
+- 11113065 - Idola Sari Manurung,
