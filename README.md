@@ -1,9 +1,8 @@
-# Monster-Combat
-Monster Combat, is a simple game Java Dekstop based. It developed in order to fulfil OOP class.
 
 
-Monsville Tournament - OOP 14/15
+##Monsville Combat - OOP 14/15
 ========== ==========
+
 Group: D3TI2-3
 11113047 - Sanny Chiudra Simarmata
 11113050 - Christin Seventina Situmorang,
@@ -11,8 +10,10 @@ Group: D3TI2-3
 11113064 - Iman Syahputra Situmorang,
 11113065 - Idola Sari Manurung,
 ========== ==========
-Description:
-Monster Combat adalah Aplikasi Game Java berbasis Dekstop yang 
+##Description:
+
+Monster Combat, is a simple game Java Dekstop based. It developed in order to fulfil OOP class.
+
 ========== ==========
 Features:
 1. Authentication (login/logout mechanism),
@@ -26,12 +27,12 @@ Features:
 
 
 ========== ==========
-Minimum software requirements:
+##Minimum software requirements:
 1. Compatible Java runtime environtment (JRE 7 or higher),
 2. MySQL database (version 5.5.x or higher),
 3. NetBeans IDE
 ========== ==========
-Installation:
+##Installation:
 1. Create user in MySQL with credential username/password:  'user' / 'user',
 2. Impor SQL script yang disediakan,
 3. Open Project using NetBeans IDE
