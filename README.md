@@ -11,11 +11,11 @@
 - 11113065 - Idola Sari Manurung,
 
 
-###Description:
+##Description:
 
 Monster Combat, is a simple game Java Dekstop based. It developed in order to fulfil OOP class.
 
-Features:
+###Features:
 1. Authentication (login/logout mechanism),
 2. Registration with username & password with monster selection,
 3. Monsters with images,
@@ -23,7 +23,7 @@ Features:
 5. Multiplayer battle,
 6. Buy Item , and automatically used it after buying the item. Each player only can have 3 Different  kind of item (Armor, Weapon , Accessoris).
    When buying new item, the old item with the same kind of the new item will removed. And the new item will used.
-7. Backsound to make user feel have a real battle :D.   
+7. Backsound to make user feel have a real battle. 
 
 
 
