@@ -1,13 +1,11 @@
 
+# Monsville Combat - OOP 14/15
 
-#Monsville Combat - OOP 14/15
-
-
-##Description:
+## Description:
 
 Monster Combat, is a simple game Java Dekstop based. It developed in order to fulfil OOP class.
 
-###Features:
+### Features:
 1. Authentication (login/logout mechanism),
 2. Registration with username & password with monster selection,
 3. Monsters with images,
@@ -19,19 +17,19 @@ Monster Combat, is a simple game Java Dekstop based. It developed in order to fu
 
 
 
-###Minimum software requirements:
+### Minimum software requirements:
 1. Compatible Java runtime environtment (JRE 7 or higher),
 2. MySQL database (version 5.5.x or higher),
 3. NetBeans IDE
 
 
 
-###Installation:
+### Installation:
 1. Create user in MySQL with credential username/password:  'user' / 'user',
 2. Impor SQL script yang disediakan,
 3. Open Project using NetBeans IDE
 
-###Contributor
+### Contributor
 
 - 11113047 - Sanny Chiudra Simarmata
 - 11113050 - Christin Seventina Situmorang,
